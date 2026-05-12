@@ -54,6 +54,12 @@ body {
   padding: 0 20px;
   transition: all 0.3s ease;
 }
+.nav1 .logo-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
 
 .nav1 a {
   text-decoration: none;
